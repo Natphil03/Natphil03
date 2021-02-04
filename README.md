@@ -1,5 +1,8 @@
 ### Hi there 👋
-### - I'm Currently learning Python 🌱
+### I'm Currently learning Python 🌱
+
+[(https://github-readme-stats.vercel.app/api?username=Natphil03)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Natphil03/Natphil03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
