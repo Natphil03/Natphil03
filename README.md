@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natphil03&theme=radical&show_icons=true)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natphil03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natphil03&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
