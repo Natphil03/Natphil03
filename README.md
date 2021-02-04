@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Currently learning Python 🌱
+### - I'm Currently learning Python 🌱
 
 <!--
 **Natphil03/Natphil03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
