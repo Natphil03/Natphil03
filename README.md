@@ -1,5 +1,6 @@
 ### Hi there 👋
-### I'm Currently learning Python 🌱
+### I'm Currently learning Python along side my studies in Computer Science 🌱
+### I'm hoping to look into C, C++ and C# Soon!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natphil03&theme=radical&show_icons=true)
 <br />
