@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align = center>Hi there 👋</p>
 ### I'm Currently learning C, C++ and C# along side my studies in BSc Computer Science 🌱
 
 
