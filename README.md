@@ -1,5 +1,5 @@
 <h1 align = center>Hi there 👋</h1>
-### I'm Currently learning C, C++ and C# along side my studies in BSc Computer Science 🌱
+<p1>I'm Currently learning C, C++ and C# along side my studies in BSc Computer Science 🌱</p1>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natphil03&theme=radical&show_icons=true)
