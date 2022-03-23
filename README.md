@@ -1,10 +1,11 @@
 <h1 align = center>Hi there 👋</h1>
-<br>
+
 <p1>I'm Currently learning C, C++ and C# along side my studies in BSc Computer Science 🌱</p1>
+
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natphil03&theme=radical&show_icons=true)
-<br />
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natphil03&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
