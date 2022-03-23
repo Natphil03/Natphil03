@@ -1,6 +1,6 @@
 <h1 align = center>Hi there 👋</h1>
 
-<p1>I'm Currently learning C, C++ and C# along side my studies in BSc Computer Science 🌱</p1>
+<p1 align = center>I'm Currently learning C, C++ and C# along side my studies in BSc Computer Science 🌱</p1>
 
 <br>
 
