@@ -4,7 +4,7 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natphil03&theme=radical&show_icons=true)
+<div align=left> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natphil03&theme=radical&show_icons=true) </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natphil03&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
