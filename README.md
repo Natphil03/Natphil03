@@ -4,11 +4,9 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natphil03&theme=radical&show_icons=true) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natphil03&theme=radical&show_icons=true) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natphil03&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natphil03&theme=radical)]
 
 
 
