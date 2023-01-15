@@ -3,11 +3,11 @@
 <p1 align = center>I'm Currently learning C, C++ and C# along side my studies in BSc Computer Science 🌱</p1>
 
 <br>
-<!--
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natphil03&theme=radical&show_icons=true) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natphil03&theme=radical)]
--->
+
 
 
 <!--
